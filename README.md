@@ -15,8 +15,8 @@ Use blink to post articles or run full website content. It is fully tested and i
 
 ## TO DO LIST
 - [X]  Set up a basic publishing demo
-- []  Do a basic Gallery
-- [] Create a demo theme for startups
+- [ ]  Do a basic Gallery
+- [ ] Create a demo theme for startups
 
 ## How do I get a quick set up?
 -  Email me via [sirkode@gmail.com](mailto:sirkode@gmail.com) and I can do it for you at a minimal fee!
