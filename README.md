@@ -3,22 +3,23 @@
 Use blink to post articles or run full website content. It is fully tested and it can speed up your articles / Blog work flow.
 
 ## How do I get blink?
-	- ** Clone it from this repo!**
+- ** Clone it from this repo!**
 
 ## How do I set up blink?
-	- ** Set up a basic laravel configurations[Download Laravel]https://github.com/laravel/laravel**
+- ** Set up a basic laravel configurations[Download Laravel]https://github.com/laravel/laravel**
 
 ## How do I configure blink to start posting?
-	- ** After getting Laravel**
-	- ** Do a basic configuration to download all composer vendor files**
-	- ** Configure you database **
+- ** After getting Laravel**
+- ** Do a basic configuration to download all composer vendor files**
+- ** Configure you database **
 
 ## How do I get a quick set up?
-	- ** Email me via [sirkode@gmail.com](mailto:sirkode@gmail.com) and I can do it for you at a minimal fee! **
+- ** Email me via [sirkode@gmail.com](mailto:sirkode@gmail.com) and I can do it for you at a minimal fee! **
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering to use blink! The documentation guide can be found in the 
+[Blink documentation](#).
 
 ## Security Vulnerabilities
 
