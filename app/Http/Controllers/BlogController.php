@@ -10,7 +10,11 @@ class BlogController extends Controller
 {
     use PostsTags;
 
-
+    /**
+    * From wink you can make a tag with the name of your Category
+    * Pull only published articles or content.
+    * You can have content within content and pull the data.
+    */
     public function index()
     {
 		$posts = $this->tags('Category')->where('published',True);
@@ -21,7 +25,12 @@ class BlogController extends Controller
     }
 
 
+    /**
+    * From wink you can make a single post query    
+    * Pull only published articles or content
+    */
     public function show($post)
+
     {
         $post = $this->posts($post);
 
