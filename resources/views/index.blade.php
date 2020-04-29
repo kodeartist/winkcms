@@ -25,17 +25,20 @@
           <div class="post-preview">
       
               <h4 class="logo text-center">
-                Use blink...
+                Introduction
               </h4>
                       
               <p class="post-preview text-center">
-                A quick and simple way to keep writing.
+               Go to is a Posts to check an actual bootstraped working sample.
               </p> 
+
+              <p>&nbsp;</p>
 
 
                <h4 class="logo text-center">
-                blink FAQ
+               HOW TO GET STARTED
               </h4>
+              <div class="text-center"> A quick and simple guide. </div>
 
               <!-- -->
   
@@ -52,7 +55,7 @@
 
       <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
         <div class="card-body">
-          <p>Git clone the project files from here....</p>
+          <p>Git clone the project files from here <a href="https://github.com/kodeartist/winkcms">LINK</a></p>
         </div>
       </div>
       <br>
@@ -69,7 +72,7 @@
       </div>
       <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
         <div class="card-body">
-          Set up basic <a href="#">laravel configurations</a>
+          Set up basic <a href="https://laravel.com/docs/7.x">laravel configurations by installing via composer</a>
         </div>
       </div>
     </div>
@@ -84,7 +87,7 @@
       </div>
       <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
         <div class="card-body">
-          Set up basic <a href="#">wink configurations</a>
+          Set up basic <a href="https://github.com/writingink/wink">wink configurations</a>
         </div>
       </div>
     </div>
@@ -109,23 +112,19 @@
   </div>
 
 
-              <!-- -->
-                      
-              <!-- <p class="post-preview text-center">
-                <ul class="text-center">
-                  <li>Git clone the project</li>
-                  <li>Set up basic laravel configurations</li>
-                  <li>Set up basic wink configurations</li>
-                </ul>
-              </p>  -->
-
             <br>
             <br>
             <br>
                <h4 class="logo text-center">
-                Have a blinkable day!
+               Look out soon for a self installer!
+               <br>
+               <img src="{{asset('blogtheme/img/smile.jpeg') }}" width="20%"/>
               </h4>
-             
+             <br>
+                <h4 class="logo text-center">
+                 Have a blinkable day!
+               </h4>
+              
   
       
              

@@ -37,7 +37,8 @@ h4,
 h5,
 h6 {
 
-  font-family: 'Muli', san-serif;
+  /*font-family: 'Muli', san-serif;*/
+    font-family: 'Comfortaa', serif;
 }
 
 a {
@@ -234,7 +235,7 @@ header.masthead .site-heading .subheading {
   line-height: 1.1;
   display: block;
   margin: 10px 0 0;
-  font-family: 'Comfortaa', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Domine', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media only screen and (min-width: 768px) {
@@ -258,14 +259,14 @@ header.masthead .post-heading .subheading {
   font-size: 24px;
   font-weight: 600;
   margin: 10px 0 30px;
-  font-family: 'Comfortaa', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Domine', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 header.masthead .post-heading .meta {
   font-size: 20px;
   font-weight: 300;
   font-style: italic;
-  font-family: 'Muli', 'Times New Roman', serif;
+  font-family: 'Domine', 'Times New Roman', serif;
 }
 
 header.masthead .post-heading .meta a {
