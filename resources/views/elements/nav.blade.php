@@ -11,10 +11,15 @@
           <a class="nav-link" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ route('blog.index')}}">Posts</a>
+          <a class="nav-link" href="{{ route('blog.index')}}">Sample Posts</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#">Updates</a>
         </li>
     
       </ul>
     </div>
+
   </div>
 </nav>

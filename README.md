@@ -14,10 +14,16 @@ Use blink to post articles or run full website content. It is fully tested and i
 -  Configure your database
 
 ## TO DO LIST
-- [X]  Set up a basic publishing demo
+- [X] Set up a basic publishing demo
 - [X] Create a demo theme for startups
-- [ ]  Do a basic Gallery
-- [ ]  Create a quick self Installer
+- [ ] Do a basic Image Gallery
+- [ ] Create a quick self Installer
+
+## UPDATES
+- [X] Landing page
+- [X] Create a demo theme for startups
+- [ ] Do a basic Image Gallery
+- [ ] Create a quick self Installer
 
 ## How do I get a quick set up?
 -  Email me via [sirkode@gmail.com](mailto:sirkode@gmail.com) and I can do it for you at a reasonable fee!

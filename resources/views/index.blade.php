@@ -7,9 +7,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
+              <p>&nbsp;</p>
           <div class="site-heading" style="padding:30px;">
-            <h2 class="logo">blink</h2>
-            <span class="subheading">dont just sit there!</span>
+            <h1 class="logo">blink</h1>
+            <span class="subheading">dont just sit there, write something!</span>
           </div>
         </div>
       </div>
@@ -25,11 +26,11 @@
           <div class="post-preview">
       
               <h4 class="logo text-center">
-                Introduction
+                Check out a sample to get started
               </h4>
                       
               <p class="post-preview text-center">
-               Go to is a Posts to check an actual bootstraped working sample.
+               Go to sample posts from the top menu and check an actual bootstraped working sample.
               </p> 
 
               <p>&nbsp;</p>

@@ -7,6 +7,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
+          <p>&nbsp;</p>
           <div class="site-heading logo" style="padding:30px;">
             <h2 class="logo">Latest blinks</h2>
             <span>Writing Ink in a blink</span>
