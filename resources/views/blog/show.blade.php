@@ -2,11 +2,12 @@
 
 
 @section('header')
- <header class="masthead" style="background: #0d9896 url('img/home-bg.jpg')">
+ <header class="masthead" style=" url('img/home-bg.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
+           <p>&nbsp;</p>
           <div class="site-heading" style="padding:30px;">
             <h2 class="logo">{{ $post->title }}</h2>
             <span class="subheading">Written by: {{$post->author->name}}</span>

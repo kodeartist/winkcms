@@ -17,7 +17,7 @@
 body {
   font-size: 15px;
   color: #212529;
-  font-family: 'Muli', 'Times New Roman', sans-serif;
+  font-family: 'Didact Gothic', sans-serif;
   line-height: 28px;
 }
 
@@ -186,7 +186,7 @@ img::-moz-selection {
 header.masthead {
   margin-bottom: 50px;
   background: no-repeat center center;
-  background-color: #083c59;
+  background-color: #0045b7;
   background-attachment: scroll;
   position: relative;
   background-size: cover;
@@ -235,7 +235,7 @@ header.masthead .site-heading .subheading {
   line-height: 1.1;
   display: block;
   margin: 10px 0 0;
-  font-family: 'Domine', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family:  'Didact Gothic', Helvetica, Arial, sans-serif;
 }
 
 @media only screen and (min-width: 768px) {

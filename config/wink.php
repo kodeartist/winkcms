@@ -32,6 +32,18 @@ return [
 
     /*
     |--------------------------------------------------------------------------
+    | Wink Domain
+    |--------------------------------------------------------------------------
+    |
+    | This is the subdomain where Wink will be accessible from. By default it
+    | will be accessible on the same domain as your app.
+    |
+    */
+
+    'domain' => env('WINK_DOMAIN'),
+
+    /*
+    |--------------------------------------------------------------------------
     | Wink Path
     |--------------------------------------------------------------------------
     |
@@ -47,13 +59,22 @@ return [
     | Wink Middleware Group
     |--------------------------------------------------------------------------
     |
-    | This is the middleware group that Wink uses, by default Wink uses
-    | the web middleware group. You can use your own group as long
-    | as the following middlewares are included.
-    | - StartSession
-    | - ShareErrorsFromSession
+    | This is the middleware group that Wink uses.
     |
     */
 
     'middleware_group' => env('WINK_MIDDLEWARE_GROUP', 'web'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Wink Post Preview Path
+    |--------------------------------------------------------------------------
+    |
+    | Wink uses this path to display a preview link in the editor. While
+    | building the link tag, the {postSlug} placeholder will be replaced
+    | by the actual post slug.
+    |
+    */
+
+    'preview_path' => '/{postSlug}',
 ];

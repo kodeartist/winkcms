@@ -2,7 +2,7 @@
 
 
 @section('header')
- <header class="masthead" style="background: #0d9896 url('img/home-bg.jpg')">
+ <header class="masthead" style="url('img/home-bg.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">

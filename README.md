@@ -19,11 +19,10 @@ Use blink to post articles or run full website content. It is fully tested and i
 - [ ] Do a basic Image Gallery
 - [ ] Create a quick self Installer
 
+
 ## UPDATES
-- [X] Landing page
-- [X] Create a demo theme for startups
-- [ ] Do a basic Image Gallery
-- [ ] Create a quick self Installer
+- [X] Updated from Laravel 6 - 7
+- [X] Writing/Wink update to themsaid/wink 
 
 ## How do I get a quick set up?
 -  Email me via [sirkode@gmail.com](mailto:sirkode@gmail.com) and I can do it for you at a reasonable fee!

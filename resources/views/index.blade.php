@@ -2,7 +2,7 @@
 
 
 @section('header')
- <header class="masthead" style="background: #0d9896 url('img/home-bg.jpg')">
+ <header class="masthead" style="asset('blogtheme/img/home-bg.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
@@ -30,7 +30,7 @@
               </h4>
                       
               <p class="post-preview text-center">
-               Go to sample posts from the top menu and check an actual bootstraped working sample.
+               Go to <a href="{{ route('blog.index') }}">sample posts</a>.
               </p> 
 
               <p>&nbsp;</p>
@@ -89,6 +89,21 @@
       <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
         <div class="card-body">
           Set up basic <a href="https://github.com/writingink/wink">wink configurations</a>
+         <p>
+           <ul>
+            <li>composer require themsaid/wink</li>
+            <li>php artisan wink:install</li>
+            <li>php artisan storage:link</li>
+          </ul>
+        </p>
+        <p>
+          Once you have wink set up, Start posting!<br>
+          <b>Note: </b> Make sure to set the tag to <b>Category</b> for the blog part to work.
+        </p>
+        <p>Happy Blogging!</p>
+          
+         
+         
         </div>
       </div>
     </div>

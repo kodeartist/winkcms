@@ -39,7 +39,7 @@
   <link 
       href="{{ asset('blogtheme/css/clean-blog.css') }}" 
       rel="stylesheet">
-
+  <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet"> 
 </head>
 
 <body>
