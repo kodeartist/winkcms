@@ -2,7 +2,8 @@
 
 
 @section('header')
- <header class="masthead" style="asset('blogtheme/img/home-bg.jpg')">
+ <header class="masthead" 
+ style="asset('blogtheme/img/home-bg.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">

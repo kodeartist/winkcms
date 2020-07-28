@@ -1,6 +1,10 @@
-# BLINK A WINK QUICK BLOG SET UP
+# BLINK IS A QUICK BLOG BOOTSTRAP
 
-Use blink to post articles or run full website content. It is fully tested and it can speed up your articles / Blog work flow.
+    BLINK is built on top of Laravel framework
+    
+    Use blink to post articles
+    Run full website content. 
+    BLINK is fully tested and it can speed up your Blog or articles work flow.
 
 ## How do I get blink?
 -  Clone it from this repo!
@@ -22,7 +26,7 @@ Use blink to post articles or run full website content. It is fully tested and i
 
 ## UPDATES
 - [X] Updated from Laravel 6 - 7
-- [X] Writing/Wink update to themsaid/wink 
+- [X] Ugraded to the latest Wink package (Writing/Wink update to themsaid/wink)
 
 ## How do I get a quick set up?
 -  Email me via [sirkode@gmail.com](mailto:sirkode@gmail.com) and I can do it for you at a reasonable fee!
@@ -31,6 +35,7 @@ Use blink to post articles or run full website content. It is fully tested and i
 
 Thank you for considering to use blink! The documentation guide can be found in the 
 [Blink documentation](#).
+If you are interested in Contributing to Blink, please email [sirkode@gmail.com]
 
 ## Security Vulnerabilities
 
